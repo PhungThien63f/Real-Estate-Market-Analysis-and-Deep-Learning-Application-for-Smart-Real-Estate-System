@@ -1,0 +1,50 @@
+﻿Property_type,Area,Width,Length,Frontage,Number_of_floors,Number_of_bedrooms,Number_of_toilets,Legal_status,Furniture,House_orientation,Balcony_orientation,Access_road,Posting_date,Expiry_date,Type_of_listing,Project_name,Street,Ward,District,Province,Distance,Price
+Nhà biệt thự,80.0,,,,3.0,4.0,3,Đã có sổ,Có nội thất,,,,1/11/2023,16/11/2023,Tin thường,Dự án Lovera Park,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,6.5
+Nhà biệt thự,80.0,,,6.0,3.0,3.0,3,Đã có sổ,Có nội thất,Đông Nam,Đông Nam,20.0,31/10/2023,7/11/2023,Tin VIP Bạc,Dự án Khang Điền Bình Chánh,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,7.9
+Nhà biệt thự,136.5,,,7.0,3.0,4.0,4,Đã có sổ,Có nội thất,,,,30/10/2023,14/11/2023,Tin VIP Bạc,Dự án KDC Phong Phú 5,Đường Số 5,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,10.8
+Nhà biệt thự,95.0,,,,5.0,5.0,4,Đã có sổ,Không có nội thất,,,,20/10/2023,4/11/2023,Tin thường,Unknown,Đường Quách Điêu,Xã Vĩnh Lộc A,Bình Chánh,TP Hồ Chí Minh,14.24503037,7.6
+Nhà biệt thự,90.0,,,,5.0,5.0,4,Đã có sổ,Không có nội thất,,,,30/10/2023,14/11/2023,Tin thường,Unknown,Đường Quách Điêu,Xã Vĩnh Lộc A,Bình Chánh,TP Hồ Chí Minh,14.24503037,7.6
+Nhà biệt thự,75.0,,,,,,,Đã có sổ,Không có nội thất,,,,28/10/2023,7/11/2023,Tin thường,Dự án Lovera Park,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,5.7
+Nhà biệt thự,80.0,,,,3.0,4.0,3,Đã có sổ,Có nội thất,Đông Bắc,,,4/11/2023,14/11/2023,Tin thường,Dự án Lovera Park,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,6.5
+Nhà biệt thự,75.0,,,5.0,3.0,3.0,3,Đã có sổ,Có nội thất,,,52.0,4/11/2023,14/11/2023,Tin thường,Dự án Lovera Park,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,5.5
+Nhà biệt thự,105.0,,,7.0,3.0,3.0,3,Đã có sổ,Có nội thất,,,52.0,26/10/2023,5/11/2023,Tin thường,Dự án Lovera Park,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,6.8
+Nhà biệt thự,105.0,,,,3.0,3.0,3,Đã có sổ,Có nội thất,Đông Nam,,,26/10/2023,5/11/2023,Tin thường,Dự án Lovera Park,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,7.0
+Nhà biệt thự,100.0,,,,3.0,5.0,4,Giấy tờ khác,Không có nội thất,Tây,Tây,,3/11/2023,18/11/2023,Tin thường,Dự án Mizuki Park,Đường Nguyễn Văn Linh,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,9.2
+Nhà biệt thự,100.0,,,5.0,3.0,4.0,5,Giấy tờ khác,Không có nội thất,Đông Nam,Đông Nam,22.0,2/11/2023,12/11/2023,Tin thường,Dự án Đại Phúc Green Villas,Đường Phạm Hùng,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,8.5
+Nhà biệt thự,60.0,,,,4.0,4.0,3,Đã có sổ,Không có nội thất,,,,2/11/2023,12/11/2023,Tin thường,Dự án Senturia Nam Sài Gòn,Đường Nguyễn Văn Linh,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,5.9
+Nhà biệt thự,110.0,,,,5.0,,,Đã có sổ,Không có nội thất,Đông Bắc,,40.0,27/10/2023,6/11/2023,Tin thường,Dự án Đại Phúc Green Villas,Đường Phạm Hùng,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,18.0
+Nhà biệt thự,75.0,,,5.0,,,,Đã có sổ,Không có nội thất,,,12.0,2/11/2023,12/11/2023,Tin thường,Dự án Lovera Park,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,5.6
+Nhà biệt thự,100.0,,,,3.0,4.0,6,Đã có sổ,Có nội thất,Đông Nam,,,2/11/2023,17/11/2023,Tin thường,Dự án 13E Phong Phú,,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,7.0
+Nhà biệt thự,100.0,,,,3.0,4.0,6,Đã có sổ,Không có nội thất,Đông Nam,Đông Nam,,2/11/2023,17/11/2023,Tin thường,Dự án 13E Phong Phú,,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,7.0
+Nhà biệt thự,156.0,,,16.0,1.0,3.0,2,Giấy tờ khác,Không có nội thất,Nam,Nam,12.0,1/11/2023,1/12/2023,Tin thường,Dự án Camellia Garden,Đường Nguyễn Văn Linh,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,15.0
+Nhà biệt thự,105.0,,,,3.0,3.0,3,Đã có sổ,Có nội thất,,,,1/11/2023,16/11/2023,Tin thường,Dự án Lovera Park,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,7.0
+Nhà biệt thự,80.0,,,5.0,3.0,4.0,3,Đã có sổ,Có nội thất,,,12.0,1/11/2023,16/11/2023,Tin thường,Dự án Lovera Park,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,6.5
+Nhà biệt thự,75.0,,,,3.0,3.0,3,Đã có sổ,Có nội thất,,,12.0,1/11/2023,11/11/2023,Tin thường,Dự án Lovera Park,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,5.6
+Nhà biệt thự,75.0,,,,2.0,3.0,3,Đã có sổ,Có nội thất,Tây Bắc,,20.0,1/11/2023,11/11/2023,Tin thường,Dự án Lovera Park,Đường Số 14,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,7.9
+Nhà biệt thự,140.0,,,7.0,3.0,3.0,,Unknown,Không có nội thất,,,12.0,30/10/2023,29/11/2023,Tin thường,Unknown,Đường 5,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,10.8
+Nhà biệt thự,100.0,,,,4.0,,,Unknown,Không có nội thất,,,,24/10/2023,23/11/2023,Tin thường,Dự án Trung Sơn,,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,13.5
+Nhà biệt thự,160.0,,,,3.0,6.0,5,Đã có sổ,Không có nội thất,,,,24/10/2023,23/11/2023,Tin thường,Dự án Him Lam 6A,Phố 24,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,30.0
+Nhà biệt thự,100.0,,,5.0,5.0,4.0,6,Đã có sổ,Có nội thất,Đông,Đông,10.5,31/10/2023,15/11/2023,Tin thường,Dự án Trung Sơn,Đường 5,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,17.5
+Nhà biệt thự,100.0,,,5.0,4.0,5.0,5,Đã có sổ,Có nội thất,,,12.0,31/10/2023,30/11/2023,Tin thường,Dự án Đại Phúc Green Villas,Đường Phạm Hùng,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,9.7
+Nhà biệt thự,95.0,,,,3.0,4.0,,Unknown,Không có nội thất,Đông Bắc,,,31/10/2023,10/11/2023,Tin thường,Dự án Greenlife 13C,,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,6.5
+Nhà biệt thự,74.1,,,,2.0,3.0,2,Unknown,Không có nội thất,Nam,,,31/10/2023,10/11/2023,Tin thường,Dự án Camellia Garden,Đường Nguyễn Văn Linh,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,7.4
+Nhà biệt thự,100.0,,,5.0,3.0,,,Unknown,Không có nội thất,Đông Nam,Đông Nam,16.0,31/10/2023,10/11/2023,Tin thường,Dự án 6B Intresco,,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,13.5
+Nhà biệt thự,75.0,,,,3.0,3.0,3,Đã có sổ,Không có nội thất,,,,25/10/2023,4/11/2023,Tin thường,Dự án Lovera Park,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,5.7
+Nhà biệt thự,100.0,,,,3.0,4.0,4,Giấy tờ khác,Có nội thất,Đông,,,31/10/2023,10/11/2023,Tin thường,Dự án Mizuki Park,Đường Nguyễn Văn Linh,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,10.5
+Nhà biệt thự,100.0,,,,4.0,,,Đã có sổ,Có nội thất,,,,31/10/2023,15/11/2023,Tin thường,Dự án Đại Phúc Green Villas,Đường Phạm Hùng,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,9.8
+Nhà biệt thự,136.5,,,7.0,3.0,4.0,4,Unknown,Không có nội thất,Tây Bắc,,16.0,30/10/2023,9/11/2023,Tin thường,Dự án KDC Phong Phú 5,Đường Số 1,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,9.9
+Nhà biệt thự,80.0,,,5.0,,4.0,,Đã có sổ,Không có nội thất,Tây Bắc,Tây Bắc,52.0,30/10/2023,9/11/2023,Tin thường,Dự án Lovera Park,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,5.5
+Nhà biệt thự,75.0,,,,2.0,3.0,3,Unknown,Không có nội thất,Tây Nam,Tây Nam,,30/10/2023,9/11/2023,Tin thường,Dự án Lovera Park,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,5.6
+Nhà biệt thự,85.0,,,,,,,Đã có sổ,Không có nội thất,,,,30/10/2023,9/11/2023,Tin thường,Unknown,Đường Quách Điêu,Xã Vĩnh Lộc A,Bình Chánh,TP Hồ Chí Minh,14.24503037,6.9
+Nhà biệt thự,160.0,,,,2.0,,,Unknown,Không có nội thất,,,,30/10/2023,9/11/2023,Tin thường,Dự án Mizuki Park,Đường Nguyễn Văn Linh,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,22.0
+Nhà biệt thự,156.0,,,,1.0,,,Unknown,Không có nội thất,,,,30/10/2023,9/11/2023,Tin thường,Dự án Camellia Garden,Đường Nguyễn Văn Linh,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,15.5
+Nhà biệt thự,100.0,,,,,,,Unknown,Không có nội thất,,,,30/10/2023,9/11/2023,Tin thường,Dự án Mizuki Park,Đường Nguyễn Văn Linh,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,9.5
+Nhà biệt thự,156.25,,,12.5,,,,Unknown,Không có nội thất,,,,30/10/2023,9/11/2023,Tin thường,Dự án Camellia Garden,Đường Nguyễn Văn Linh,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,16.0
+Nhà biệt thự,126.0,,,7.0,3.0,4.0,5,Đã có sổ,Có nội thất,,,14.0,30/10/2023,9/11/2023,Tin thường,Dự án 13B Conic Phong Phú,Đường Nguyễn Văn Linh,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,10.6
+Nhà biệt thự,126.0,,,,4.0,5.0,5,Đã có sổ,Có nội thất,Tây Nam,,,29/10/2023,8/11/2023,Tin thường,Dự án 13B Conic Phong Phú,,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,10.2
+Nhà biệt thự,100.0,,,5.0,3.0,3.0,4,Đã có sổ,Có nội thất,Đông,,12.0,24/10/2023,23/11/2023,Tin thường,Dự án Mizuki Park,Đường Nguyễn Văn Linh,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,11.5
+Nhà biệt thự,75.0,,,,3.0,4.0,,Đã có sổ,Không có nội thất,,,,29/10/2023,8/11/2023,Tin thường,Dự án Lovera Park,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,5.7
+Nhà biệt thự,100.0,,,5.0,3.0,4.0,4,Unknown,Không có nội thất,Đông,Đông,20.0,29/10/2023,8/11/2023,Tin thường,Dự án Mizuki Park,Đường Nguyễn Văn Linh,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,6.75
+Nhà biệt thự,100.0,,,5.0,3.0,4.0,3,Giấy tờ khác,Bàn giao thô,Đông,Đông,8.0,29/10/2023,8/11/2023,Tin thường,Dự án Mizuki Park,Đường Nguyễn Văn Linh,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,7.75
+Nhà biệt thự,60.0,,,,3.0,,,Unknown,Không có nội thất,,,12.0,28/10/2023,12/11/2023,Tin thường,Dự án Senturia Nam Sài Gòn,Đường Nguyễn Văn Linh,Xã Bình Hưng,Bình Chánh,TP Hồ Chí Minh,6.809442895,5.9
+Nhà biệt thự,75.0,,,,,,,Unknown,Không có nội thất,,,,28/10/2023,7/11/2023,Tin thường,Dự án Lovera Park,Đường Trịnh Quang Nghị,Xã Phong Phú,Bình Chánh,TP Hồ Chí Minh,9.62325228,6.8
