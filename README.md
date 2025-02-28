@@ -10,5 +10,5 @@
 - The dataset was then analyzed, and both **Machine Learning (ML)** and **Deep Learning (DL)** models were applied to predict housing prices in **Ho Chi Minh City**.
 - Finally, the best-performing model was selected to develop a **house price prediction application**.
 
-  ![House Prediction]([image_url "Image Title"](https://github.com/PhungThien63f/Real-Estate-Market-Analysis-and-Deep-Learning-Application-for-Smart-Real-Estate-System/blob/main/Code/assets/price_prediction.png))
+  ![House Prediction](https://github.com/PhungThien63f/Real-Estate-Market-Analysis-and-Deep-Learning-Application-for-Smart-Real-Estate-System/blob/main/Code/assets/price_prediction.png)
   
