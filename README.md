@@ -6,10 +6,12 @@
 - 20280075: Phạm Thiên Phụng
 
 ## Information: 
+### Step 1:
 - Using the Selenium library, data was crawled from **Batdongsan** and **Chotot** websites.
 - After that, using Power BI to visualize the data
   ![Dahboard-1](https://github.com/PhungThien63f/Real-Estate-Market-Analysis-and-Deep-Learning-Application-for-Smart-Real-Estate-System/blob/main/Dashboard/Dash-1.png)
 
+### Step 2:
   #### **First Dashboard: Overview of the Real Estate Market in Ho Chi Minh City (2023)**  
 
 This dashboard provides an **overview of the real estate situation in Ho Chi Minh City** for the year 2023, primarily from **September to early December**.  
@@ -19,6 +21,8 @@ This dashboard provides an **overview of the real estate situation in Ho Chi Min
 - **District Distribution:** **Thu Duc District** has the highest number of real estate listings, followed by **District 7** and **Tan Phu District**.  
 - **Legal Status:** The majority of properties have either a **Red Book (Ownership Certificate) or an Unknown status**.
 
+  ![Dahboard-1](https://github.com/PhungThien63f/Real-Estate-Market-Analysis-and-Deep-Learning-Application-for-Smart-Real-Estate-System/blob/main/Dashboard/Dash-2.png
+  
   #### **Real Estate Price Trends**  
 
 - Although **Villas and Townhouses** are less common, they have **very high prices**. **Apartments** tend to have the **lowest prices** among all property types.  
@@ -26,12 +30,10 @@ This dashboard provides an **overview of the real estate situation in Ho Chi Min
 - Given the **government's tightening legal regulations on real estate**, properties with **clear legal status (Ownership Certificate available)** tend to have **higher prices**.  
 - **Furnished properties** are generally priced **higher** than **unfurnished** ones.  
 
-
-
-  ![Dahboard-1](https://github.com/PhungThien63f/Real-Estate-Market-Analysis-and-Deep-Learning-Application-for-Smart-Real-Estate-System/blob/main/Dashboard/Dash-2.png)
-  
-  
+### Step 3:
 - The dataset was then analyzed, and both **Machine Learning (ML)** and **Deep Learning (DL)** models were applied to predict housing prices in **Ho Chi Minh City**.
+  
+### Step 4:
 - Finally, the best-performing model was selected to develop a **house price prediction application**.
 
   ![House Prediction](https://github.com/PhungThien63f/Real-Estate-Market-Analysis-and-Deep-Learning-Application-for-Smart-Real-Estate-System/blob/main/Code/assets/price_prediction.png)
