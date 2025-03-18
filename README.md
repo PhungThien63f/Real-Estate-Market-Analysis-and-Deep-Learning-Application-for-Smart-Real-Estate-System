@@ -21,7 +21,7 @@ This dashboard provides an **overview of the real estate situation in Ho Chi Min
 - **District Distribution:** **Thu Duc District** has the highest number of real estate listings, followed by **District 7** and **Tan Phu District**.  
 - **Legal Status:** The majority of properties have either a **Red Book (Ownership Certificate) or an Unknown status**.
 
-  ![Dahboard-1](https://github.com/PhungThien63f/Real-Estate-Market-Analysis-and-Deep-Learning-Application-for-Smart-Real-Estate-System/blob/main/Dashboard/Dash-2.png
+  ![Dahboard-2](https://github.com/PhungThien63f/Real-Estate-Market-Analysis-and-Deep-Learning-Application-for-Smart-Real-Estate-System/blob/main/Dashboard/Dash-2.png
   
   #### **Real Estate Price Trends**  
 
