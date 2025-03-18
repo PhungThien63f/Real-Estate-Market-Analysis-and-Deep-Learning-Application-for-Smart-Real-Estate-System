@@ -6,7 +6,13 @@
 - 20280075: Phạm Thiên Phụng
 
 ## Information: 
-- Using the Selenium library, data was crawled from **Batdongsan** and **Chotot** websites. 
+- Using the Selenium library, data was crawled from **Batdongsan** and **Chotot** websites.
+- After that, using Power BI to visulization data
+  ![Dahboard-1](https://github.com/PhungThien63f/Real-Estate-Market-Analysis-and-Deep-Learning-Application-for-Smart-Real-Estate-System/blob/main/Dashboard/Dash-1.png)
+
+  ![Dahboard-1](https://github.com/PhungThien63f/Real-Estate-Market-Analysis-and-Deep-Learning-Application-for-Smart-Real-Estate-System/blob/main/Dashboard/Dash-2.png)
+  
+  
 - The dataset was then analyzed, and both **Machine Learning (ML)** and **Deep Learning (DL)** models were applied to predict housing prices in **Ho Chi Minh City**.
 - Finally, the best-performing model was selected to develop a **house price prediction application**.
 
