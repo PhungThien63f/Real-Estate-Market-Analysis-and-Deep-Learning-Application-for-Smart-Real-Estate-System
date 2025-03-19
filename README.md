@@ -8,10 +8,10 @@
 ## Information: 
 ### Step 1:
 - Using the Selenium library, data was crawled from **Batdongsan** and **Chotot** websites.
-- After that, using Power BI to visualize the data
+  ### Step 2:
+- Using Power BI to visualize the data
   ![Dahboard-1](https://github.com/PhungThien63f/Real-Estate-Market-Analysis-and-Deep-Learning-Application-for-Smart-Real-Estate-System/blob/main/Dashboard/Dash-1.png)
 
-### Step 2:
   #### **First Dashboard: Overview of the Real Estate Market in Ho Chi Minh City (2023)**  
 
 This dashboard provides an **overview of the real estate situation in Ho Chi Minh City** for the year 2023, primarily from **September to early December**.  
