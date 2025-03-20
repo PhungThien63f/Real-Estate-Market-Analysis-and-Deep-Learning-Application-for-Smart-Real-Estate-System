@@ -6,7 +6,7 @@
 - 20280075: Phạm Thiên Phụng
 
 ## Information: 
-### Step 1:
+  ### Step 1:
 - Using the Selenium library, data was crawled from **Batdongsan** and **Chotot** websites.
   ### Step 2:
 - Using Power BI to visualize the data
