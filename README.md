@@ -36,19 +36,16 @@ This dashboard provides an **overview of the real estate situation in Ho Chi Min
   
   **RESULT**
   
-  | MODEL                         | SCORE  | MSE     | RMSE    | MAE    |
-  
+  ### RESULT
+
+| MODEL                         | SCORE  | MSE     | RMSE    | MAE    |
 |-------------------------------|--------|---------|---------|--------|
-
 | LINEAR REGRESSION             | 0.6364 | 10.9652 | 3.3113  | 2.2173 |
-
 | RANDOM FOREST REGRESSION      | 0.8576 | 4.2944  | 2.0723  | 1.1346 |
-
 | K-NEAREST NEIGHBOR REGRESSION | 0.8231 | 5.3372  | 2.3102  | 1.2392 |
-
 | XGBOOST REGRESSION            | 0.8660 | 4.0401  | 2.0100  | 1.1483 |
-
 | REGRESSION NEURAL NETWORK     | **0.8801** | **3.2117** | **1.6831** | **0.9224** |
+
 
   
 ### Step 4:
