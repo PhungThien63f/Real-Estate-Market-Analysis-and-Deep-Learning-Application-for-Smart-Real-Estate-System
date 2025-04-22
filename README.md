@@ -33,9 +33,18 @@ This dashboard provides an **overview of the real estate situation in Ho Chi Min
 
 ### Step 3:
 - The dataset was then analyzed, and both **Machine Learning (ML)** and **Deep Learning (DL)** models were applied to predict housing prices in **Ho Chi Minh City**.
+  **RESULT**
+  | **Model**                        | **Score** | **MSE**  | **RMSE** | **MAE**  |
+|-----------------------------------|-----------|----------|----------|----------|
+| Linear Regression                | 0.6364    | 10.9652  | 3.3113   | 2.2173   |
+| Random Forest Regression         | 0.8576    | 4.2944   | 2.0723   | 1.1346   |
+| K-Nearest Neighbor Regression    | 0.8231    | 5.3372   | 2.3102   | 1.2392   |
+| XGBoost Regression               | 0.8660    | 4.0401   | 2.0100   | 1.1483   |
+| Regression Neural Network        | **0.8801** | **3.2117** | **1.6831** | **0.9224** |
+
   
 ### Step 4:
-- Finally, the best-performing model was selected to develop a **house price prediction application**.
+- Finally, the best-performing model is **Regression Neural Network** was selected to develop a **house price prediction application**.
 
   ![House Prediction](https://github.com/PhungThien63f/Real-Estate-Market-Analysis-and-Deep-Learning-Application-for-Smart-Real-Estate-System/blob/main/Code/assets/price_prediction.png)
   
